@@ -1,0 +1,17 @@
+---
+layout: page
+title: About Me 
+header: About Me
+group: navigation
+---
+{% include JB/setup %}
+
+<section class="row">
+  <div class="span6">
+    <div class="flex-video widescreen"><iframe src="https://www.youtube.com/embed/WSTBJ82nUts" frameborder="0" allowfullscreen=""></iframe></div>
+  </div>
+  <div class="span6">
+    ...
+  </div>
+</section>
+

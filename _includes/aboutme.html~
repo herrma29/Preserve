@@ -1,0 +1,23 @@
+<h2>About Me</h2>
+<p>
+    <img src="{{ site.author.gravatar }}" alt="{{ site.author.name }}" title="Follow me on Twitter @{{ site.author.twitter }}"  class="img-rounded floatLeft" />
+I believe local food has the power to connect us, to preserve the natural beauty of our communities, to rebuild broken economies, and--perhaps most importantly--to remind us of who we are and where we come from as we move forward into the future.
+
+I have spent much of my professional career connecting the dots of local food systems. My experience has spanned the spectrum of the food system--from production, regional planning, and horticultural research to feeding the masses and everything between.
+
+I have experience working on the ground-level in nearly every aspect of local food. As a result, I understand the challenges inherent in local food production and procurement and am able to navigate around those challenges, find ways to build bridges, and manage the sometimes tricky relationships between key stakeholders in the system.
+
+I am interested in working with teams of passionate, hardworking individuals who see the value of local food and are eager to find new, innovative ways to support our farmers, producers, and communities. If you fit the bill, please email me at Chris.A.Herrmann@gmail.com.
+</p>					
+<p>
+
+<p>
+    <a href="https://twitter.com/{{ site.author.twitter }}" class="twitter-follow-button" data-link-color="#0069D6" data-show-count="true">Follow @{{ site.author.twitter }}</a>
+</p>
+<p>
+    <ul class="buttons unstyled">
+        <li><a href="https://github.com/{{ site.author.github }}" rel="me" class="social github" title="Go to github.com/{{ site.author.github }}" target="_blank"></a></li>
+        <li><a href="http://www.twitter.com/{{ site.author.twitter }}" rel="me" class="social twitter" title="Go to twitter.com/{{ site.author.twitter }}" target="_blank"></a></li>
+        <li><a href="https://github.com/{{ site.author.github }}/Feedback/issues/new" rel="me" class="social mail" title="Leave feedback for {{ site.author.name  }}"  target="_blank"></a></li>				
+    </ul>
+</p>

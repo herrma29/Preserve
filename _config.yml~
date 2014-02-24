@@ -1,0 +1,26 @@
+
+pygments: true
+
+title: Christopher Allen Herrmann
+
+url: http://www.chrisaherrmann.com
+
+permalink: /:year/:month/:day/:title/
+
+author:
+    name: Chris Herrmann
+    email: chris.a.herrmann@gmail.com
+    github: herrma29
+    twitter: ChrisAHerrmann
+    gravatar: http://www.gravatar.com/avatar/5b5d77e491dedd7c30d8e6c3ce5d3f95.png
+
+comments:
+    provider: disqus
+    disqus:
+        short_name: intheatticuk
+        
+analytics:
+    provider: google 
+    google: 
+        tracking_id: ''
+        domain: ''
