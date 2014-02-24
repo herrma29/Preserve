@@ -19,7 +19,7 @@
                             <i class="icon-list"></i> Projects <b class="caret"></b>
                         </a>
                         <ul class="dropdown-menu">
-                            <li class=""><a href="/projects/wood-working" title="Broad overview of my woodworking projects" target="_blank">Woodworking</a></li>
+                            <li class=""><a href="/projects/wood-working" title="Broad overview of my woodworking projects">Woodworking</a></li>
                             <li class=""><a href="https://github.com/gkwelding/Scene7WSDLPHPWrapper" title="take me to the Scene7WSDLPHPWrapper github page" target="_blank">Adobe Scene7 WSDL PHP Wrapper</a></li>
                             <li class=""><a href="https://github.com/gkwelding/GoogleMapsV3CI" title="take me to the Google Maps V3 API for CodeIgniter github page" target="_blank">Google Maps V3 API for CodeIgniter</a></li>
                             <li class=""><a href="https://github.com/gkwelding/MailchimpAPICI" title="take me to the MailChimp API for CodeIgniter github page" target="_blank">MailChimp API for CodeIgniter</a></li>
