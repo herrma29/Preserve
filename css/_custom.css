@@ -184,7 +184,7 @@ ol#search-results li {
     content: '';
 }
 
-.navbar-inner {
+body.navbar-fixed-top body.navbar-inner, body.navbar-static-top body.navbar-inner {
     box-shadow: none
     background-image: none
 }
