@@ -1,8 +1,10 @@
 pygments: true
 
-title: Christopher A. Herrmann
+title: Christopher A Herrmann
 
 url: http://www.chrisaherrmann.com
+
+images: /img
 
 permalink: /:year/:month/:day/:title/
 
