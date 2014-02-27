@@ -31,7 +31,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
   </head>
   <body>
-    {% include navigation.html %}
+    {% include navigation.md %}
 
     <div class="container">
         <div class="content">
@@ -42,7 +42,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                     {{ content }}
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-4 hidden-xs">
-                    {% include aboutme.html %}
+                    {% include aboutme.md %}
                 </div>
 		<div class="col-lg-2 col-md-1 hidden-sm hidden-xs">
 		</div>
@@ -50,6 +50,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         </div>
     </div>
 
-    {% include footer.html %}
+    {% include footer.md %}
   </body>
 </html>
