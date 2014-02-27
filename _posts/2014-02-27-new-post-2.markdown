@@ -1,0 +1,5 @@
+---
+layout: post
+published: true
+title: New Post 2
+---
