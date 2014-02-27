@@ -1,3 +1,32 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6
+.dropdown-menu
+.navbar {
+    font-family: "Open Sans"!important;
+    font-weight: 300;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+strong {
+	font-weight: 600;
+}
+
 .navbar {
     border: none;
 }
@@ -5,6 +34,10 @@
 .dropdown-menu {
     box-shadow: none;
     display: none;
+}
+
+.navbar-brand {
+	font-weight: 600;
 }
 
 @font-face {
@@ -71,27 +104,4 @@
 }
 
 
-html,
-body,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-a,
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6
-.dropdown-menu
-.navbar {
-    font-family: "Open Sans"!important;
-    font-weight: 300;
-}
 
-strong {
-	font-weight: 600;
-}
