@@ -22,5 +22,5 @@ comments:
 analytics:
     provider: google 
     google: 
-        tracking_id: ''
-        domain: ''
+        tracking_id: 'UA-48434878-1'
+        domain: 'www.chrisaherrmann.com'
