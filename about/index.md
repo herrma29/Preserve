@@ -1,6 +1,7 @@
 ---
 layout: layout
 title: "Christopher Allen Herrmann"
+modal: <img align='left' src='/img/Woodworking-1.png' style='height:auto; width:50%; max-width:1000px; max-height:1000px; padding:10px; padding-top:0px;' />
 ---
 
 ##Who I am and how I do.
@@ -14,9 +15,13 @@ Apart from developing this website, my background and interests are all over the
    We worked on 6 farms in Utah ([Hell's Backbone Grill](http://hellsbackbonegrill.com/)), California ([Soil Born Farm](https://www.soilborn.org/‎) & [Omi's Farm](https://www.facebook.com/pages/Omis-Farm/138108209542101)), Oregon ([Sweet Water Farm](http://www.sweetwaterfarmhugo.com/)), and Washington ([Willow Grove Gardens](http://www.localharvest.org/willow-grove-gardens-M22195) and [Little Rascals Farm & Hansville Creamery](http://www.littlerascalsfarm.com/)); visited 14 national parks; and [blogged](http://chris-and-carrie.blogspot.com/) about the whole experience.
 * Helping a few friends fulfill their dreams and open [Fork in the Road; Local Artisan Diner](https://www.facebook.com/ForkintheRoadArtisanDiner) in Lansing, Michigan.
 
-   We grew the restaurant into Lansing's best new restaurant by popular vote, installed a [kickass garden](https://www.facebook.com/photo.php?fbid=480815511997767&set=a.192608480818473.49102.187500327995955&type=3&theater), and commissioned a [beautiful mural](https://www.facebook.com/photo.php?fbid=407962519283067&set=a.192608480818473.49102.187500327995955&type=3&theater) by
+   We grew the restaurant into Lansing's best new restaurant by popular vote, installed a [kickass garden](https://www.facebook.com/photo.php?fbid=480815511997767&set=a.192608480818473.49102.187500327995955&type=3&theater), and commissioned a [beautiful mural](https://www.facebook.com/photo.php?fbid=407962519283067&set=a.192608480818473.49102.187500327995955&type=3&theater) for the side of the building.
 * Joining the the board of directors for the [Baltimore Orchard Project](http://baltimoreorchard.org).
 * Working on the film crew for [Spare Rooms](http://spareroomsmovie.com/) and beginning conversations about a [documentary](/projects/documentary/) I hope to produce over the coming years.
+
+<a  data-toggle="modal" data-target="#myModal" href='#'>
+  Launch demo modal
+</a>
 
 
 
