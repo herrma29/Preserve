@@ -2,11 +2,16 @@
 <html class="fuelux" lang="en">
   <head>
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+		{% if page.url == "/404.html" %}
+			<meta http-equiv="refresh" content="5; url=/">
+		{% endif %}
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="/js/all.js" type="text/javascript"></script>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/custom.css" rel="stylesheet">
+    <link href="/css/bootstrap-lightbox.min.css" rel="stylesheet">
+	<link href="/css/custom.css" rel="stylesheet">
+
 
 	
 	

@@ -5,6 +5,10 @@ tags: awesome cool
 video_url: http://www.youtube.com/embed/NoCOagL69_s
 ---
 
+	<div class="vid">
+		<iframe width="560" height="315" src="//www.youtube.com/embed/ac7KhViaVqc" allowfullscreen=""></iframe>
+	</div><!--./vid -->
+
 
 **Apparently you can do multiple words in _a style_**
 <br>

@@ -2,9 +2,39 @@
 layout: layout
 title: "Christopher Allen Herrmann"
 ---
+    <div id="demoLightbox" class="lightbox hide fade" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class='lightbox-content'>
+    <img src="image.png">
+    <div class="lightbox-caption"><p>Your caption here</p></div>
+    </div>
+    </div>
 
-<p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+<h2 id="who_i_am_and_how_i_do">Who I am and how I do.</h2>
 
-<p>
-"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-</p>
+<p>I started this website to serve as a platform for my musings and projects. I built the site using <a href="http://www.jekyllrb.com">Jekyll</a>–an open-sourced, <a href="https://www.ruby-lang.org/‎
+">ruby</a>-based static site generator served on <a href="http://www.github.com">GitHub</a> Pages with a <a href="http://getbootstrap.com/">Twitter Bootstrap</a> frontend. I have enjoyed learning the many bits and pieces of the framework and hope to share the unique solutions I have come across while building this site.</p>
+
+<p>Apart from developing this website, my background and interests are all over the place, though with a strong focus on local food systems. Some of my favorite accomplishments/experiences to date include:</p>
+
+<ul>
+<li>
+<p>Working on farms and touring the western United States for six months with my wife–we’ve been together since 2009 and married since 2012 :)</p>
+
+<p>We worked on 6 farms in Utah (<a href="http://hellsbackbonegrill.com/">Hell’s Backbone Grill</a>), California (<a href="https://www.soilborn.org/‎">Soil Born Farm</a> &amp; <a href="https://www.facebook.com/pages/Omis-Farm/138108209542101">Omi’s Farm</a>), Oregon (<a href="http://www.sweetwaterfarmhugo.com/">Sweet Water Farm</a>), and Washington (<a href="http://www.localharvest.org/willow-grove-gardens-M22195">Willow Grove Gardens</a> and <a href="http://www.littlerascalsfarm.com/">Little Rascals Farm &amp; Hansville Creamery</a>); visited 14 national parks; and <a href="http://chris-and-carrie.blogspot.com/">blogged</a> about the whole experience.</p>
+</li>
+
+<li>
+<p>Helping a few friends fulfill their dreams and open <a href="https://www.facebook.com/ForkintheRoadArtisanDiner">Fork in the Road; Local Artisan Diner</a> in Lansing, Michigan.</p>
+
+<p>We grew the restaurant into Lansing’s best new restaurant by popular vote, installed a <a href="https://www.facebook.com/photo.php?fbid=480815511997767&set=a.192608480818473.49102.187500327995955&type=3&theater">kickass garden</a>, and commissioned a <a href="https://www.facebook.com/photo.php?fbid=407962519283067&set=a.192608480818473.49102.187500327995955&type=3&theater">beautiful mural</a> by</p>
+</li>
+
+<li>
+<p>Joining the the board of directors for the <a href="http://baltimoreorchard.org">Baltimore Orchard Project</a>.</p>
+</li>
+
+<li>
+<p>Working on the film crew for <a href="http://spareroomsmovie.com/">Spare Rooms</a> and beginning conversations about a <a href="/projects/documentary/">documentary</a> I hope to produce over the coming years.</p>
+</li>
+</ul>
+                

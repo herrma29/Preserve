@@ -16,14 +16,9 @@ layout: layout
 <h4>{{ page.date | date: "%B %e, %Y" }}</h4>
     
 {% if page.video_url %}
- <div class="less-fancy-video-header">
-  <iframe
-   class="yt-embed"
-   src="{{page.video_url }}?&rel=0&showinfo=0&autohide=1&hd=1&wmode=transparent"
-   frameborder="0"
-   allowfullscreen="true">
-  </iframe>
- </div>
+<div class="vid">
+                <iframe width="560" height="315" src="//www.youtube.com/embed/ac7KhViaVqc" allowfullscreen=""></iframe>
+            </div>
 {% endif %}
 
 {{ content }}
