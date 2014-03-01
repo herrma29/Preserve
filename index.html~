@@ -6,26 +6,12 @@ title: "Christopher Allen Herrmann"
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
 
-{% assign page = post %}
+	{% assign page = post %}
 
-{% include post_details.html %}
+	{% include post_details.html %}
 
+    {{ page.content.excerpt }}
 
-{{ page.url }}
-
-<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-
-<h4>{{ post.date | date: "%B %e, %Y" }}</h4>
-
-  <div class="content">
-	{% if post.video_url %}
-		<div class="vid">
-			<iframe width="560" height="315" src="{{post.video_url}}" allowfullscreen=""></iframe>
-		</div>
-{% endif %}
-
-    {{ post.content }}
-  </div>
 {% endfor %}
 
 <!-- Pagination links -->

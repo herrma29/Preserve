@@ -2,8 +2,8 @@ pygments: true
 
 title: Christopher A Herrmann
 
-paginate: 1
-paginate_path: index.html
+paginate: 3
+paginate_path: /page:num
 
 url: http://www.chrisaherrmann.com
 
