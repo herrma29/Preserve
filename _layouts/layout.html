@@ -50,7 +50,7 @@
 		<!-- Modal Generator -->
 		{% assign l = page.modals | last | size %}
 		{% for modal in page.modals %}
-			{% increment i %}
+			<div class='hidden' >{% increment i %}</div>
 			<div class="modal fade" id="{{ i }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 				<div class="modal-dialog">
 					<div class="modal-content" align='center'>

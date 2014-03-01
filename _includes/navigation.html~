@@ -1,5 +1,3 @@
----
----
 <nav class="navbar navbar-default" role="navigation">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -22,9 +20,9 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
           <ul class="dropdown-menu">
 			{% for page in site.pages %}
-				{if page.group == 'projects' %}
-	            <li><a href="{{page.url}}">{{page.title}}</a></li>
-				{% end %}
+				{% if page.group == 'project' %}
+            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+				{% endif %}
 			{% endfor %}
           </ul>
         </li>
