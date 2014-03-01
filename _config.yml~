@@ -2,9 +2,12 @@ pygments: true
 
 title: Christopher A Herrmann
 
+paginate: 1
+paginate_path: index.html
+
 url: http://www.chrisaherrmann.com
 
-images: /img
+images: /img/
 
 permalink: /:year/:month/:day/:title/
 

@@ -34,6 +34,7 @@
 
 					<!-- Main Content -->
 					<div class="col-lg-5 col-md-7 col-sm-8 col-xs-12">
+					{% include generator.html %}
 					{{ content }}
 					</div>
 				
@@ -47,24 +48,7 @@
 			</div>
 		</div>
 
-		<!-- Modal Generator -->
-		{% assign l = page.modals | last | size %}
-		{% for modal in page.modals %}
-			<div class='hidden' >{% increment i %}</div>
-			<div class="modal fade" id="{{ i }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-				<div class="modal-dialog">
-					<div class="modal-content" align='center'>
-						<div class="modal-header">
-							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						</div>
-						<div class="modal-body">
-							<img align='center' src='/img/{{ modal }}' style='height:auto; width:100%; max-width:1000px; max-height:1000px; padding:0px;' />
-							<div class="modal-footer"></div>
-						</div>
-					</div><!-- /.modal-content -->
-				</div><!-- /.modal-dialog -->
-			</div><!-- /.modal -->
-		{% endfor %}
+
 
 		<!-- Footer -->
 		{% include footer.html %}

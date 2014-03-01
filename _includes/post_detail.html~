@@ -1,10 +1,10 @@
 				<p>
-					{% if post.previous.url %} 
+					{% if page.previous.url %} 
 						<a href="{{post.previous.url}}" title="Previous Post: {{post.previous.title}}">
 						&laquo; Previous Blog Post</a>  |
 					{% endif %}
 					  <a href="/archives/">Archives</a>  
-					{% if post.next.url %}
+					{% if page.next.url %}
 						|  <a href="{{post.next.url}}" title="Next Post: {{post.next.title}}">Next Blog Post &raquo; 					</a>
 					{% endif %}
 				</p>    

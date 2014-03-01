@@ -3,11 +3,9 @@ layout: post
 title: Test Post
 tags: awesome cool
 video_url: http://www.youtube.com/embed/NoCOagL69_s
+gallery: true
 ---
 
-	<div class="vid">
-		<iframe width="560" height="315" src="//www.youtube.com/embed/ac7KhViaVqc" allowfullscreen=""></iframe>
-	</div><!--./vid -->
 
 
 **Apparently you can do multiple words in _a style_**
@@ -18,7 +16,11 @@ _Use_
 ##H2
 ###H3
 ####H4
+
+{% include video.html %}
+
 #####H5
 ######H6
 [home](http://www.chrisaherrmann.com)
 
+{% include video.html %}

@@ -1,0 +1,16 @@
+<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+
+<h4>{{ page.date | date: "%B %e, %Y" }}</h4>
+
+{% if page.video_url %}
+	<div class="vid">
+		<iframe width="560" height="315" src="{{page.video_url}}" allowfullscreen=""></iframe>
+	</div>
+{% endif %}
+
+{% if page.gallery == true %}
+	<div class="vid">
+		<iframe width="560" height="315" src="//www.youtube.com/embed/ac7KhViaVqc" allowfullscreen=""></iframe>
+	</div>
+{% endif %}
+

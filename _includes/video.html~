@@ -1,0 +1,5 @@
+{% if page.video_url %}
+<div class="vid">
+<iframe width="560" height="315" src="{{page.video_url}}" allowfullscreen="allowfullscreen"></iframe>
+</div>
+{% endif %}
