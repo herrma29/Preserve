@@ -1,5 +1,5 @@
 ---
 layout: layout
 title: "Documentary"
-group: project
+project: "documentary"
 ---
