@@ -21,7 +21,10 @@ a,
 
 .modal-header {
 	border-bottom: none;
+}
 
+.modal-top {
+	border-top: none;
 }
 
 .vid {
