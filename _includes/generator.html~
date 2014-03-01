@@ -1,4 +1,3 @@
-{{page }}
 <!-- Modal Generator -->
 {% assign l = page.img | last | size %}
 {% for img in page.img %}
