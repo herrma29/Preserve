@@ -10,7 +10,7 @@ title: "Christopher Allen Herrmann"
 
 	{% include post_details.html %}
 
-    {{ page.content.excerpt }}
+    {{ page.excerpt }}
 
 {% endfor %}
 

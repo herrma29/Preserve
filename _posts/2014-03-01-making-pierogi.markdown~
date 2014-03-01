@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Making Pierogi
 gallery: 3 
+tag: cooking
 img:
  - pierogi-1.jpg
  - pierogi-2.jpg
@@ -14,8 +15,6 @@ img:
  - pierogi-8.jpg
  - pierogi-9.jpg
 ---
-{% assign tt = page %}
 
-{{ tt }}
 
 {% include gallery.html %}

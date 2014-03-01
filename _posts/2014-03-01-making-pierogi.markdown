@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Making Pierogi
 gallery: 3 
+tags: cooking
 img:
  - pierogi-1.jpg
  - pierogi-2.jpg
