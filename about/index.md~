@@ -1,14 +1,14 @@
 ---
 layout: layout
 title: "Christopher Allen Herrmann"
-gallery: 4
+gallery: 6
 img:
  - fitr_garden.jpg
  - fitr_mural.jpg
  - Woodworking-1.png
 video_url: http://www.youtube.com/embed/NoCOagL69_s
 ---
-##Who I am and how I do.
+##Who I am and what I do.
 I started this website to serve as a platform for my musings and projects. I built the site using [Jekyll](http://www.jekyllrb.com)--an open-sourced, [ruby](https://www.ruby-lang.org/‎
 )-based static site generator served on [GitHub](http://www.github.com) Pages with a [Twitter Bootstrap](http://getbootstrap.com/) frontend. I have enjoyed learning the many bits and pieces of the framework and hope to share the unique solutions I have come across while building this site.
 

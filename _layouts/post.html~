@@ -3,17 +3,18 @@ layout: layout
 ---
 {% include post_details.html %}
 
-{{ page.content }}
+{{ content }}
 
 <p>
-	{% if page.previous.url %} 
-		<a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">
-		&laquo; Previous </a>
+	{% if page.next.url %}
+		<a href="{{page.next.url}}"">&laquo; Previous </a>
 	{% endif %}
 
-	{% if page.next.url %}
-		<a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">Next &raquo;</a>
+	{% if page.previous.url %} 
+		<a href="{{page.previous.url}}""> Next &raquo;</a>
 	{% endif %}
+
+
 </p>    
 
 

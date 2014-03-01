@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: "Christopher Allen Herrmann"
-gallery: 4
+gallery: 3
 img:
  - fitr_garden.jpg
  - fitr_mural.jpg
