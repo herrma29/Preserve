@@ -2,8 +2,8 @@
 layout: post
 published: true
 title: Making Pierogi
-gallery: 3 
 tags: cooking
+gallery: 3 
 img:
  - {img-file: pierogi-2, img-title: Cutting out the rounds.}
  - {img-file: pierogi-3, img-title: Applying the filling.}

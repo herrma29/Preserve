@@ -1,9 +1,6 @@
 ---
 layout: layout
-title: "Cooking"
-project: "cooking"
+title: "Woodworking"
+project: "woodworking"
 ---
 {% include post_listings_projects.html %}
-
-
-
