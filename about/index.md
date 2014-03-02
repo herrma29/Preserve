@@ -3,10 +3,8 @@ layout: layout
 title: "Christopher Allen Herrmann"
 gallery: 3
 img:
- - img-file: fitr_garden
-   img-title: Fork in the Road Garden
- - img-file: fitr_mural
-   img-title: Fork in th Road Mural
+ - {img-file: fitr_garden, img-title: Fork in the Road Garden}
+ - {img-file: fitr_mural, img-title: Fork in th Road Mural}
 video_url: http://www.youtube.com/embed/NoCOagL69_s
 ---
 ##Who I am and what I do.
