@@ -21,10 +21,13 @@ a,
 
 .modal-header {
 	border-bottom: none;
+	padding-bottom: 0px;
 }
 
 .modal-footer {
 	border-top: none;
+	margin-top: 0px;
+	padding: 0px;
 }
 
 .vid {
