@@ -6,7 +6,7 @@
 			{% for img in page.img %}
 				<div class='hidden' >{% increment t %}</div>
 				<div class ='col-xs-{{ column }}'>
-					<a href="#" data-toggle="modal" data-target="#{{ t }}"><img class='img-rounded' align='center'  src='/img/{{ img }}' style='height:auto; margin-bottom:20px; width:100%; max-width:1000px; max-height:1000px; padding:0px;' /></a>
+					<a href="#" data-toggle="modal" data-target="#{{ t }}"><img class='img-rounded' align='center'  src='/img/{{ img.img-file }}' style='height:auto; margin-bottom:20px; width:100%; max-width:1000px; max-height:1000px; padding:0px;' alt="{{ img.img-title }}"/></a>
 				</div>
 			{% endfor %}
 </div>

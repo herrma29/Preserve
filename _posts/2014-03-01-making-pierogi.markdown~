@@ -3,18 +3,27 @@ layout: post
 published: true
 title: Making Pierogi
 gallery: 3 
-tag: cooking
+tags: cooking
 img:
- - pierogi-1.jpg
- - pierogi-2.jpg
- - pierogi-3.jpg
- - pierogi-4.jpg
- - pierogi-5.jpg
- - pierogi-6.jpg
- - pierogi-7.jpg
- - pierogi-8.jpg
- - pierogi-9.jpg
+ - img-file: pierogi-1.jpg
+   img-title: Ready for boiling!
+ - img-file: pierogi-2.jpg
+   img-title: Cutting out the rounds.
+ - img-file: pierogi-3.jpg
+   img-title: Applying the filling.
+ - img-file: pierogi-4.jpg
+   img-title: Shaping the pierogi.
+ - img-file: pierogi-5.jpg
+   img-title: Sealing the edges.
+ - img-file: pierogi-6.jpg
+   img-title: Julienning onions for caramelizing.
+ - img-file: pierogi-7.jpg
+   img-title: Boiled pierogi next to raw pierogi.
+ - img-file: pierogi-8.jpg
+   img-title: Frying the pierogi in butter!
+ - img-file: pierogi-9.jpg
+   img-title: All plated up!
 ---
 
-
+{{ page.img }}
 {% include gallery.html %}

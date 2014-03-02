@@ -21,9 +21,10 @@ a,
 
 .modal-header {
 	border-bottom: none;
+	padding-bottom: 0px;
 }
 
-.modal-top {
+.modal-footer {
 	border-top: none;
 }
 
