@@ -12,8 +12,8 @@ img:
  - {img-file: pierogi-1, img-title: Ready for boiling!}
  - {img-file: pierogi-7, img-title: Boiled pierogi next to raw pierogi.}
  - {img-file: pierogi-8, img-title: Frying the pierogi in butter!}
- - {img-file: pierogi-6, img-title: Julienning onions for caramelizing.
- - {img-file: pierogi-9, img-title: All plated up!
+ - {img-file: pierogi-6, img-title: Julienning onions for caramelizing.}
+ - {img-file: pierogi-9, img-title: All plated up!}
 ---
 I never really cared for pierogi when I was a kid. The only pierogi I ever came across were found in cardboard boxes in the frozen food section of Meijer. I tried a few cheddar and potato pierogi--my sisters both loved them--but I hated cheese to begin with and was never impressed.
 
