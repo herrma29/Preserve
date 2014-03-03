@@ -1,5 +1,11 @@
-<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+<h1>
+	{% if page == post %}<a href="{{ page.url }}">{{ page.title }}</a>
 
-<h4>{{ page.date | date: "%B %e, %Y" }}</h4>
+	{% else %}{{ page.title }}
+
+	{% endif %}
+</h1>
+
+<p>Published on {{ page.date | date: "%A, %B %-d, %Y" }}</p>
 
 {% include generator.html %}
