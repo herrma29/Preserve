@@ -44,6 +44,15 @@ a,
 	border-bottom: none;
 }
 
+body {
+  background-color: #001527;
+}
+
+.container {
+  background-color: #fff;
+  border-radius: 5px;
+}
+
 .modal-footer {
 	border-top: none;
 	margin-top: 0px;
