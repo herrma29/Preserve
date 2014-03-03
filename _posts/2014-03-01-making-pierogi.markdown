@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Making Pierogi
 tags: cooking
+snippet: Post about adventures in pierogi making, complete with pictures!
 gallery: 3 
 img:
  - {img-file: pierogi-2, img-title: Cutting out the rounds.}

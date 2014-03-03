@@ -1,0 +1,12 @@
+  <h2>Past Posts</h2>
+  {% for post in site.posts %}
+    <div class='fade-wrapper'>
+    <div class='archive'>
+    	<a href="{{ post.url }}">
+    		<h3>{{ post.title }}</h3>
+    		<p>{{ post.snippet }}</p>
+    		<p>Published on {{ post.date | date: "%A, %B %-d, %Y" }}</p>
+   	 	</a>
+	</div>	
+  </div>
+  {% endfor %}

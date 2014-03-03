@@ -19,6 +19,27 @@ a,
     font-weight: 300;
 }
 
+.archive:hover, .archive:active { 
+    background-color: transparent; 
+}
+
+.archive {
+    border-bottom-style: solid;
+    border-bottom-width:1px;
+    border-bottom-color: #9c9c9c;
+    background-color: #fff;
+    transition: background-color .2s linear;
+}
+
+.fade-wrapper {
+    background-color: #e7e7e7;
+}
+
+.archive a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .modal-header {
 	border-bottom: none;
 	padding-bottom: 0px;
