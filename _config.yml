@@ -1,5 +1,7 @@
 pygments: true
 
+markdown: redcarpet
+
 title: Christopher A Herrmann
 
 paginate: 2
