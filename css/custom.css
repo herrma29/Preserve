@@ -19,6 +19,29 @@ a,
     font-weight: 300;
 }
 
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
+    border-bottom-color: #777;
+    border-bottom-width: 1px;
+}
+
+body {
+    text-align: center;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 800px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    width: 800px;
+  }
+}
+
 .archive:hover, .archive:active { 
     background-color: transparent; 
 }
@@ -74,7 +97,6 @@ body {
 
 .container {
   background-color: #fff;
-  border-radius: 5px;
 }
 
 .modal-footer {
@@ -121,10 +143,6 @@ h5 {
 
 strong {
 	font-weight: 600;
-}
-
-.navbar {
-    border: none;
 }
 
 .dropdown-menu {
