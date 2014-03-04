@@ -6,7 +6,9 @@ title: "Christopher Allen Herrmann"
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
 
-<div class='fade-wrapper'>
+{% include archiver.html %}
+
+<div class='fade-wrapper {{ post.date | date: "%A" | downcase }}'>
 <div class='archive'>
     <a href="{{ post.url }}">
       <h3>{{ post.title }}</h3>

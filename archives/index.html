@@ -2,4 +2,6 @@
 layout: layout
 ---
 
-{% include archive.html %}
+{% for post in site.posts %}
+{% include archiver.html %}
+{% endfor %}
