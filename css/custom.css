@@ -40,6 +40,30 @@ a,
     color: inherit;
 }
 
+.image-container {
+    text-align: center;
+    -ms-text-justify: distribute-all-lines;
+    text-justify: distribute-all-lines;
+}
+
+.crop {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    vertical-align: top;
+    display: inline-block;
+    *display: inline;
+    margin:10px;
+    zoom: 1;
+    border-radius: 5px;
+}
+
+.crop img {
+    width: 300px;
+    height: relative;
+
+}
+
 .modal-header {
 	border-bottom: none;
 }

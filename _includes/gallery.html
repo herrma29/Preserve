@@ -1,12 +1,17 @@
 {% if page.gallery %}
 
-	{% if page.img %}
-<div id='links'>
-			{% assign column = 12 | divided_by: page.gallery %}
-			{% for img in page.img %}
-				<div class='hidden' >{% increment t %}</div>
-					<a href="/img/{{ img.img-file }}.jpg" data-toggle="modal" data-target="#{{ t }}" data-gallery><img class='img-rounded' align='center'  src='/img/{{ img.img-file }}.jpg' style='height:auto; margin-bottom:20px; width:20%; max-width:1000px; max-height:1000px; padding:0px;' alt="{{ img.img-title }}"/></a>
-			{% endfor %}
+{% if page.img %}
+
+{% assign column = 12 | divided_by: page.gallery %}
+<div class="image-container">
+{% for img in page.img %}
+<div class='hidden' >{% increment t %}</div>
+
+<div class="img-rounded crop">
+	<a href="/img/{{ img.img-file }}.jpg" data-toggle="modal" data-target="#{{ t }}" data-gallery><img class='img-rounded' align='center'  src='/img/{{ img.img-file }}.jpg'  alt="{{ img.img-title }}"/></a>
 </div>
-	{% endif %}
+
+{% endfor %}
+</div>
+{% endif %}
 {% endif %}
