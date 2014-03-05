@@ -4,12 +4,14 @@ title: "Christopher Allen Herrmann"
 ---
 
 <!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
 <div class='image-container'>
-{% include archiver.html %}
-</div>
-{% endfor %}
 
+{% for post in paginator.posts %}
+
+{% include archiver.html %}
+
+{% endfor %}
+</div>
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
 <div class="pagination">

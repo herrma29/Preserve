@@ -118,7 +118,7 @@ a,
     overflow: hidden;
   }
 
-  #title-up {
+#title-up {
     position: absolute;
     z-index: 3;
     background: #ccc;
