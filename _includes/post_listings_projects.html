@@ -1,15 +1,7 @@
 {% for post in site.posts %}
 	{% for tag in post.tags %}
 		{% if page.project == tag %}
-			<div class='fade-wrapper'>
-				<div class='archive'>
-	  				<a href="{{ post.url }}">
-	  					<h3>{{ post.title }}</h3>
-	  					<p>{{ post.snippet }}</p>
-	  					<p>Published on {{ post.date | date: "%A, %B %-d, %Y" }}</p>
-	 	 			</a>
-				</div>	
-			</div>
+		{% include archiver.html %}
 		{%endif%}
 	{% endfor %}
 {% endfor %}

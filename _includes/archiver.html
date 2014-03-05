@@ -1,4 +1,4 @@
-<div class='fade-wrapper {{ post.date | date: "%A" | downcase }}'>
+<!--<div class='fade-wrapper {{ post.date | date: "%A" | downcase }}'>
 <div class='archive'>
   	<a href="{{ post.url }}">
   		<h3>{{ post.title }}</h3>
@@ -6,4 +6,27 @@
   		<p>Published on {{ post.date | date: "%A, %B %-d, %Y" }}</p>
  	 	</a>
 </div>	
-</div>
+</div>-->
+<a style="display:block;" href="{{ post.url }}">
+	<div class='box-wrap'>
+		<div id="toggle">
+
+		<a href="{{ post.url }}">
+  		<h3>{{ post.title }}</h3>
+  		<p>{{ post.snippet }}</p>
+  		<p>Published on {{ post.date | date: "%A, %B %-d, %Y" }}</p>
+ 	 	</a>
+	</div>
+	<div id='title-up'><h3>{{ post.title }}</h3></div>
+	<img src='/img/{{ post.cover_photo }}.jpg'  alt="{{ img.img-title }}"/>
+ </div>
+ </a>
+
+<script>
+$('.box-wrap').hover(function() {
+  $(this).children( "#toggle" ).stop().show("slide", { direction: "left" }, 200);
+},
+function(){
+	$(this).children( "#toggle" ).stop().hide("slide", { direction: "left" }, 200);
+});
+</script> 

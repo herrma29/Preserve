@@ -7,6 +7,7 @@ tags:
  - nature
  - msu
 snippet: Pictures from my last trip to Woldumar Nature Center
+cover_photo: bark-red-cedar-12-29-2013
 gallery: 3 
 img:
  - {img-file: bark-red-cedar-12-29-2013, img-title: Tree next to the Red Cedar River.}
