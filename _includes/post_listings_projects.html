@@ -1,7 +1,9 @@
-{% for post in site.posts %}
+<div class='image-container'>
+	{% for post in site.posts %}
 	{% for tag in post.tags %}
 		{% if page.project == tag %}
 		{% include archiver.html %}
 		{%endif%}
 	{% endfor %}
 {% endfor %}
+</div>
