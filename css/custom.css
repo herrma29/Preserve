@@ -125,6 +125,24 @@ a,
     width: 100%;
 }
 
+#post_body_cover {
+    position: absolute;
+    height: 100%;
+    width: 100;
+    z-index: 5;
+    overflow: hidden;
+}
+
+#post_body_cover a {
+    display: block;
+    z-index: 6;
+}
+
+#post_body_cover img {
+    height: 1000px;
+    width: 1000px;
+}
+
 /* Image gallery and modal settings */
 
 .image-container {

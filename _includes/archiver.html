@@ -1,12 +1,15 @@
 	<div class='box-wrap'>
-		<div id="toggle">
-
+		
+    <div id="toggle">
+      <div id='post_body_cover'>
+        <a href="{{ post.url }}"><img src="/img/transparent.png"></a></div>
 		<a href="{{ post.url }}" style="display:block;">
   		<h3>{{ post.title }}</h3>
   		<p>{{ post.date | date: "%A, %B %-d, %Y" }}</p>
       <p>---</p>
       <div id='post_body'>
         {{ post.content }}
+        
       </div>
 
  	 	</a>
