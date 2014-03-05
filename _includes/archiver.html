@@ -7,7 +7,6 @@
  	 	</a>
 </div>	
 </div>-->
-<a style="display:block;" href="{{ post.url }}">
 	<div class='box-wrap'>
 		<div id="toggle">
 
@@ -17,10 +16,12 @@
   		<p>Published on {{ post.date | date: "%A, %B %-d, %Y" }}</p>
  	 	</a>
 	</div>
-	<div id='title-up'><h3>{{ post.title }}</h3></div>
+	<div id='title-up'>
+    <a href="{{ post.url }}">
+    <h3>{{ post.title }}</h3></div>
 	<img src='/img/{{ post.cover_photo }}.jpg'  alt="{{ img.img-title }}"/>
+</a>
  </div>
- </a>
 
 <script>
 $('.box-wrap').hover(function() {
