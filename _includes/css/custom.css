@@ -314,19 +314,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', e
 }
 
 .crop {
-    width: 150px;
-    height: 150px;
+    width: 240px;
+    height: 240px;
     overflow: hidden;
     vertical-align: top;
     display: inline-block;
     *display: inline;
-    margin:2.5px;
-    zoom: 1;
+    margin:0px;
+    margin-bottom: 5px;
 }
 
 .crop img {
-    width: 300px;
+    width: 480px;
+    margin-left: -120px;
     height: relative;
+
 
 }
 
