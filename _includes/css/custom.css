@@ -19,9 +19,19 @@ a,
 .h6
 .dropdown-menu
 .navbar {
-    font-family: "Open Sans"!important;
+    font-family: 'Roboto Slab'!important;
     font-weight: 300;
     color: #5E5E5E;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    color: inherit;
+    font-family: 'Roboto Slab';
+}
+
+body {
+font-family: 'Roboto';
+font-size: 16px;
 }
 
 /* Navbar settings */
@@ -292,7 +302,6 @@ a,
 blockquote {
     font-size: 14px;
     border-left: none;
-    font-family: inherit;
     font-style: italic;
 }
 
