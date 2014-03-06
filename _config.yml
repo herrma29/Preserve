@@ -4,7 +4,7 @@ markdown: redcarpet
 
 title: Christopher A Herrmann
 
-paginate: 2
+paginate: 6
 paginate_path: /page:num
 
 url: http://www.chrisaherrmann.com
