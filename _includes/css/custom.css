@@ -24,7 +24,7 @@ a,
     color: #5E5E5E;
 }
 
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, p {
     color: inherit;
     font-family: 'Roboto Slab';
     font-weight: 700;
@@ -291,7 +291,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', e
     padding: 5px;
     text-align: center;
     font-weight: 700;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans';
     text-transform: uppercase;
 }
 
