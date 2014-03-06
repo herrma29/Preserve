@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Photographs -- MSU, Woldumar Nature Center, and Stony Creek Metropark
+title: Nature Shots
 tags:
  - photography
  - nature

@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Detroit--The Heidelberg Project
+title: Detroit&#58; The Heidelberg Project
 tags:
  - urban
  - art

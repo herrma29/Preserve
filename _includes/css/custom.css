@@ -84,9 +84,6 @@ a,
 }
 
 .box-wrap {
-    width:auto;
-    max-width: 500px;
-    height: auto;
     overflow: hidden;
     position: relative;
     z-index: 0;
@@ -148,6 +145,12 @@ a,
 #post_body_cover img {
     height: 1000px;
     width: 1000px;
+}
+
+#post_body {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Image gallery and modal settings */
