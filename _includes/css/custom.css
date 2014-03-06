@@ -61,7 +61,7 @@ a,
 .navbar-default .navbar-brand {
     color: #000;
     font-weight: 700;
-    font-size: 22px;
+    font-size: 18px;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -152,6 +152,11 @@ a,
   .container, .nav-wrapper {
     width: 750px;
   }
+.navbar-default .navbar-brand {
+    color: #000;
+    font-weight: 700;
+    font-size: 22px;
+    }
 }
 
 /* Settings for archive post display */
