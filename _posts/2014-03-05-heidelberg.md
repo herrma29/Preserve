@@ -19,7 +19,7 @@ img:
  - {img-file: heidelberg-dog-house-12-31-2013, img-title: The Dog House}
  - {img-file: heidelberg-doll-12-31-2013, img-title: Remnants}
 ---
-During another trip Carrie and I took back in Michigan, we made a stop at the Heidelberg Project in Detroit to see what was happening. [The Heidelberg Project](http://www.heidelberg.org/) is a
+During another trip Carrie and I took back in Michigan we made a stop at the Heidelberg Project in Detroit. [The Heidelberg Project](http://www.heidelberg.org/) is a
 
 >is a Detroit-based community organization designed to improve the lives of people and neighborhoods through art. Our mission is to inspire people to appreciate and use artistic expression to enrich their lives and to improve the social and economic health of their greater community.
 
