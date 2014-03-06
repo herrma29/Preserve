@@ -2,6 +2,7 @@
 layout: layout
 title: "Christopher Allen Herrmann"
 gallery: 3
+sitemap: yes
 img:
  - {img-file: fitr_garden, img-title: Fork in the Road Garden}
  - {img-file: fitr_mural, img-title: Fork in th Road Mural}

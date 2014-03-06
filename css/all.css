@@ -1,6 +1,7 @@
 ---
 ---
-{% include blueimp-gallery.min.css %}
-{% include bootstrap-lightbox.min.css %}
-{% include bootstrap.min.css %}
-{% include custom.css %}
+
+{% include css/blueimp-gallery.min.css %}
+{% include css/bootstrap-lightbox.min.css %}
+{% include css/bootstrap.min.css %}
+{% include css/custom.css %}
