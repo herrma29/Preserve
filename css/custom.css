@@ -22,6 +22,12 @@ a,
 }
 
 /* Navbar settings */
+.navbar-outer {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
 
 .navbar {
     border-radius: 0px;
@@ -261,8 +267,13 @@ body {
 /* Set the fixed height of the footer here */
 #footer {
   height: 30px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
+#footer p {
+    text-align: center;
+}
 
 @font-face {
     font-family: "Open Sans";
