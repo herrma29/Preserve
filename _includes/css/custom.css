@@ -21,6 +21,7 @@ a,
 .navbar {
     font-family: "Open Sans"!important;
     font-weight: 300;
+    color: #5E5E5E;
 }
 
 /* Navbar settings */
@@ -295,7 +296,7 @@ body {
 }
 .container {
     background-color: transparent;
-    color: #ccc;
+    color: #1D1D1D;
     padding-left: 5px;
     padding-right: 5px;
 }
