@@ -180,6 +180,13 @@ a,
 
 /* General styling */
 
+blockquote {
+    font-size: 14px;
+    border-left: none;
+    font-family: inherit;
+    font-style: italic;
+}
+
 body {
     background-color: #001527;
 }

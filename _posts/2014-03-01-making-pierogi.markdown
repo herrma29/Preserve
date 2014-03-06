@@ -21,7 +21,7 @@ I never really cared for pierogi when I was a kid. The only pierogi I ever came 
 
 I went probably ten years without eating--nor thinking of--pierogies. I'm not sure from where the idea to make them first came, but sometime in 2011 my wife and I decided to give them a go.
 
-I'm sure it had something to do with the pierogi dinner held at a church in Lansing. We drove past the sign for this dinner every day for a couple months, picturing a bunch of old, wrinkly Polish grandmothers standing in a kitchen churning out pierogi after pierogi for hungry Lansing-ites.
+I'm sure it had something to do with the pierogi dinner held at a church in Lansing. We drove past the sign for this dinner every day for a couple months, picturing a bunch of Polish grandmothers standing in a kitchen churning out pierogi after pierogi for hungry Lansing-ites.
 
 No matter where the idea came from, we had the pierogi bug. We were thinking about them for a long while--their buttered and crispy exterior giving way to a soft and cheesy interior. Coupled with a dollop of sour cream and a pile of caramelized onions and you have a delicious meal.
 
