@@ -1,18 +1,13 @@
 	<div class='box-wrap'>
     <div id="toggle">
-      <div id='post_body_cover'>
-        <a href="{{ post.url }}"><img src="/img/transparent.png"></a></div>
-		<a href="{{ post.url }}" style="display:block;">
-  		<h3>{{ post.title }}</h3>
-  		<p>{{ post.date | date: "%A, %B %-d, %Y" }}</p>
-      <p>---</p>
+      <!--<div id='post_body_cover'>
+        <a href="{{ post.url }}"><img src="/img/transparent.png"></a>
+      </div>-->
       <div id='post_body'>
-
-        {{ post.content | strip_html | truncatewords:75}}
-        
+        <div class='post_content'>
+          <a href="{{ post.url }}"><span class='more'>Click Here</span></a>
+        </div>
       </div>
-
- 	 	</a>
 	</div>
 	<div id='title-up'>
     <a href="{{ post.url }}" style="display:block;">
@@ -23,9 +18,9 @@
 
 <script>
 $('.box-wrap').hover(function() {
-  $(this).children( "#toggle" ).stop().show("slide", { direction: "left" }, 200);
+  $(this).children( "#toggle" ).stop().fadeIn('fast');
 },
 function(){
-	$(this).children( "#toggle" ).stop().hide("slide", { direction: "left" }, 200);
+	$(this).children( "#toggle" ).stop().fadeOut('fast');
 });
 </script> 
