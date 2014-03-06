@@ -1,5 +1,4 @@
 	<div class='box-wrap'>
-		
     <div id="toggle">
       <div id='post_body_cover'>
         <a href="{{ post.url }}"><img src="/img/transparent.png"></a></div>
@@ -8,7 +7,8 @@
   		<p>{{ post.date | date: "%A, %B %-d, %Y" }}</p>
       <p>---</p>
       <div id='post_body'>
-        {{ post.content }}
+
+        {{ post.content | strip_html | truncatewords:75}}
         
       </div>
 
