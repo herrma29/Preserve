@@ -24,5 +24,6 @@ img:
 ---
 
 While Carrie and I were home for the holidays, we spent a few days out taking pictures. We went to some of our favorite outdoor spots just after a huge ice storm hit and took some nice shots. Hope you enjoy!
-
+<br>
+<br>
 {% include gallery.html %}

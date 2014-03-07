@@ -7,11 +7,11 @@ layout: layout
 
 <div id='post_nav'>
 	{% if page.next.url %}
-		<a href="{{page.next.url}}"">&laquo; Previous </a>
+		<a id='post_previous' href="{{page.next.url}}">&laquo; Previous </a>
 	{% endif %}
 
 	{% if page.previous.url %} 
-		<a href="{{page.previous.url}}""> Next &raquo;</a>
+		<a id='post_next' href="{{page.previous.url}}"> Next &raquo;</a>
 	{% endif %}
 </div>    
 

@@ -24,5 +24,6 @@ During another trip Carrie and I took back in Michigan we made a stop at the Hei
 >Detroit-based community organization designed to improve the lives of people and neighborhoods through art. Our mission is to inspire people to appreciate and use artistic expression to enrich their lives and to improve the social and economic health of their greater community.
 
 Not long before we went (and the reason going there was even on our minds), one of Detroit's biggest problems struck the Heidelberg Project: Arson. Several of the buildings were burned to the ground, leaving nothing but a foundation, ashes, and scattered pieces of scorched framing. We wanted to see the project before there was nothing left--very glad to have stopped by. I would encourage anyone in Detroit to check out the site. It is at once eery, inspiring, depressing, and thought provoking.
-
+<br>
+<br>
 {% include gallery.html %}

@@ -231,7 +231,7 @@ font-size: 16px;
     position: absolute;
     width: 100%;
     height: 100%;
-    background-color: rgba(0%, 0%, 0%, 0.6);
+    background-color: rgba(0%, 0%, 0%, 0.4);
     display: none;
     z-index: 1;
     overflow: hidden;
@@ -316,9 +316,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', e
 }
 
 #post_nav, #post_nav a {
-    text-align: center;
     text-transform: uppercase;
     text-decoration: none;
+    font-weight: 700;
+    color: #000;
+}
+
+#post_previous {
+    float: left;
+}
+
+#post_next {
+    float: right;
 }
 
 /* Image gallery and modal settings */

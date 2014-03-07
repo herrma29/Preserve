@@ -29,6 +29,7 @@ We followed a [simple recipe](http://allrecipes.com/recipe/pierogi-polish-dumpli
 
 Lots of fun--I'd definitely recommend anyone make them. We used a ring from a wide mouth mason jar to cut out the pierogi. Be careful not to over-flour the rounds, otherwise they won't seal properly and you'll end up with floating chunks of potato in your boiling water.
 
-Enjoy!
-
+Enjoy!   
+<br>
+<br>
 {% include gallery.html %}
