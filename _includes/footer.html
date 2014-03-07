@@ -13,5 +13,21 @@
 		<script src="/js/jquery.blueimp-gallery.min.js"></script>
 		<!--<script src="js/bootstrap-image-gallery.min.js"></script>-->
 		<script src="/js/jquery-ui.min.js"></script>
+		<script>
+$('.box-wrap').hover(function() {
+  $(this).children( "#toggle" ).stop().fadeIn('fast');
+},
+function(){
+	$(this).children( "#toggle" ).stop().fadeOut('fast');
+});
+</script>
+<script>
+$('.crop').hover(function() {
+  $(this).children( "#toggle" ).stop().fadeIn('fast');
+},
+function(){
+	$(this).children( "#toggle" ).stop().fadeOut('fast');
+});
+</script>
 	</div>
 </div>

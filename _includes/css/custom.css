@@ -236,6 +236,14 @@ font-size: 16px;
     color: #fff;
   }
 
+  .fade {
+    opacity: 1;
+  }
+
+  .fade:hover {
+    opacity: 0.5;
+  }
+
 #title-up {
     position: absolute;
     z-index: 3;
@@ -345,6 +353,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', e
     *display: inline;
     margin:0px;
     margin-bottom: 5px;
+    background-color: #000;
 }
 
 .crop img {
