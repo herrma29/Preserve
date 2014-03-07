@@ -1,4 +1,4 @@
-<h1>
+<h1 id='post_header'>
 	{% if page == post %}<a href="{{ page.url }}">{{ page.title }}</a>
 
 	{% else %}{{ page.title }}
@@ -6,4 +6,4 @@
 	{% endif %}
 </h1>
 
-<p>Published on {{ page.date | date: "%A, %B %-d, %Y" }}</p>
+<p id='post_date'>Published on {{ page.date | date: "%A, %B %-d, %Y" }}</p>
