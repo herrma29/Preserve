@@ -12,7 +12,7 @@ It has been just over a year since my father's life slipped away after a long fi
 
 I would give everything to erase his suffering and bring him back to this world, but because that's not an option, I will hold fiercely to the happy memories I shared with him and work every day to fill the shoes left in his absence.
 
-While I'm sure many of the people reading this blog at the time of this post knew my father, at least in passing, I imagine a decent number never met him, nor heard the tales of his life. One of the best ways to keep our memories alive is to repeat them, and repeat them often. And so, with that in mind, I would like to share the eulogy I wrote for my father.
+While I'm sure many of the people reading this blog at the time of this post knew my father, at least in passing, I imagine a decent number never met him, nor heard the tales of his life. One of the best ways to keep our memories alive is to repeat them, and repeat them often. And so, with that in mind, I would like to share the eulogy I wrote for my father just over a year ago.
 <hr>
 <br>
 
