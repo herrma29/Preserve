@@ -2,10 +2,16 @@
 <html class="fuelux" lang="en">
   <head>
     <title>{{ page.title }}</title>
+
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <met name="decription" content="{{ page.content | strip_html | truncate: 155 }}" />
+
     <meta property="og:title" content="{{page.title}}" />
-	<meta property="og:description" content="{{ page.content | strip_html | truncate: 250 }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ page.url }}" />
+	<meta property="og:description" content="{{ page.content | strip_html | truncate: 155 }}" />
 	<meta property="og:image" content= "{% for img in page.img %}{% capture t %}{{t | plus: '1'}}{% endcapture %}{% if t == '1' %}/img/{{ img.img-file }}.jpg{% endif %}{% endfor %}" />
     <link rel="stylesheet" type="text/css" href="/css/all.css">
     <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
