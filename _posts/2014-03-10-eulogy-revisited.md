@@ -45,4 +45,5 @@ As you probably guessed, I may have embellished a few details…it is a fishing 
 
 I will miss you, dude. You were the best friend and best father I could ever ask for.
 
+<br>
 {% include gallery.html %}
