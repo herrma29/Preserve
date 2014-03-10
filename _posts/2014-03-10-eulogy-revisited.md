@@ -8,7 +8,7 @@ img:
  - {img-file: glenn_herrmann, img-title: Glenn Herrmann}
 ---
 
-It has been just over a year since my father's life slipped away after a long fight with stomach cancer. This past year, and the year preceding it, were two of the toughest years of my life. One of them I spent separated by a great distance from my father and my home--unable to care for him or share in new memories, save for the nightly phone calls. The next year I spent hollowed out by his absence, struggling to make sense of a world without my best friend. The pain I experienced pale in comparision to the agony he endured, yet he did it with great grace.
+It has been just over a year since my father's life slipped away after a long fight with stomach cancer. This past year, and the year preceding it, were two of the toughest years of my life. One of them I spent separated by a great distance from my father and my home--unable to care for him or share in new memories, save for the nightly phone calls. The next year I spent hollowed out by his absence, struggling to make sense of a world without my best friend. The pain I experienced pales in comparision to the agony he endured, yet he did it with great grace.
 
 I would give everything to erase his suffering and bring him back to this world, but because that's not an option, I will hold fiercely to the happy memories I shared with him and work every day to fill the shoes left in his absence.
 
