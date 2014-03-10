@@ -4,6 +4,8 @@ published: true
 title: Eulogy Revisited
 tags: writing memories
 cover_photo: glenn_herrmann
+img:
+ - {img-file: glenn_herrmann, img-title: Glenn Herrmann}
 ---
 
 It has been just over a year since my father's life slipped away after a long fight with stomach cancer. This past year, and the year preceding it, were two of the toughest years of my life. One of them I spent separated by a great distance from my father and my home--unable to care for him or share in new memories, save for the nightly phone calls. The next year I spent hollowed out by his absence, struggling to make sense of a world without my best friend. The pain I experienced pale in comparision to the agony he endured, yet he did it with great grace.
@@ -12,7 +14,7 @@ I would give everything to erase his suffering and bring him back to this world,
 
 While I'm sure many of the people reading this blog at the time of this post knew my father, at least in passing, I imagine a decent number never met him, nor heard the tales of his life. One of the best ways to keep our memories alive is to repeat them, and repeat them often. And so, with that in mind, I would like to share the eulogy I wrote for my father.
 <br>
----  
+<hr>
 <br>
 
 I have been thinking for some time about what I would say when the time came to give a eulogy for my father. How could I sum up the life of such a great man in a few minutes? How could I capture who he really was?
@@ -43,3 +45,5 @@ It was then that I realized how powerful fishing was and how much I respected my
 As you probably guessed, I may have embellished a few details…it is a fishing story after all, but I think it captures who my father was, at least for me: a fellow adventurer, a great friend, a generous teacher. Someone I could count on to help me fight the difficult battles in life, to keep me grounded. Someone to share in victories with and celebrate the bounty of life. He was a man better than most, who radiated love and happiness. He was the best father a kid could ever ask for. He was my father, my best friend. I will forever carry him with me…listening to his lessons, both spoken and unspoken. Learning to be more like him every day.
 
 I will miss you, dude. You were the best friend and best father I could ever ask for.
+
+{% include gallery.html %}

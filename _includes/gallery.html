@@ -1,10 +1,7 @@
-{% if page.gallery %}
-
 {% if page.img %}
 
 {% unless page.gallery == 'no' %}
 {% assign t = '0' %}
-{% assign column = 12 | divided_by: page.gallery %}
 <div class="image-container">
 {% for img in page.img %}
 {% capture t %}{{t | plus: '1'}}{% endcapture %}
@@ -16,5 +13,4 @@
 {% endfor %}
 </div>
 {% endunless %}
-{% endif %}
 {% endif %}
