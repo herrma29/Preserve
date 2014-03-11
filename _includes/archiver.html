@@ -3,14 +3,14 @@
       <!--<div id='post_body_cover'>
         <a href="{{ post.url }}"><img src="/img/transparent.png"></a>
       </div>-->
-      <div id='post_body'>
+      <a href="{{ post.url }}"><div id='post_body'>
         <div class='post_content'>
-          <a href="{{ post.url }}"><span class='more'>Read More</span></a>
+          <span class='more'>Read More</span>
         </div>
-      </div>
+      </div></a>
 	</div>
-	<div id='title-up'>
-    <a href="{{ post.url }}" style="display:block;">
+	<a href="{{ post.url }}">
+    <div id='title-up'>
     <h3>{{ post.title }}</h3></div>
 	<img src='/img/{{ post.cover_photo }}.jpg'  alt="{{ img.img-title }}"/>
 </a>
